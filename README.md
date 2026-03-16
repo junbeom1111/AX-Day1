@@ -9,52 +9,62 @@
 
 # 목차
 
-1. 서론
-2. Markdown의 개념과 특징
-   2.1 Markdown의 정의
-   2.2 Markdown의 등장 배경
-   2.3 Markdown의 핵심 특징
-   2.4 HTML과의 차이
-3. Markdown의 설계 철학
-   3.1 읽기 쉬운 문서
-   3.2 쓰기 쉬운 문서
-   3.3 최소한의 문법
-   3.4 사람이 먼저 읽는 문서
-4. Markdown의 주요 문법
-   4.1 제목(Headers)
-   4.2 문단과 줄바꿈
-   4.3 강조(Emphasis)
-   4.4 목록(Lists)
-   4.5 인용문(Blockquotes)
-   4.6 코드(Code)
-   4.7 링크(Links)
-   4.8 이미지(Images)
-   4.9 수평선(Horizontal Rules)
-5. Markdown의 확장 요소
-   5.1 체크리스트
-   5.2 표(Table)
-   5.3 HTML 혼합 사용
-   5.4 표준화와 도구별 차이
-6. 예시 자료를 통한 Markdown 이해
-   6.1 실시간 미리보기 화면
-   6.2 GitHub README
-   6.3 Markdown 치트시트
-   6.4 원문과 결과 비교 예시
-   6.5 Markdown 유튜브 입문 영상
-7. Markdown의 활용 사례
-   7.1 개발 문서 작성
-   7.2 블로그 및 웹 콘텐츠 작성
-   7.3 학습 및 노트 정리
-   7.4 협업 문서 작성
-   7.5 기술 교육 및 튜토리얼 제작
-8. Markdown의 장점과 한계
-   8.1 장점
-   8.2 한계
-   8.3 종합적 평가
-9. 실습 예시
-10. 결론
-11. 참고문헌
-    부록. 자주 쓰는 Markdown 문법 요약
+**1. 서론**
+
+**2. Markdown의 개념과 특징**
+   - 2.1 Markdown의 정의
+   - 2.2 Markdown의 등장 배경
+   - 2.3 Markdown의 핵심 특징
+   - 2.4 HTML과의 차이
+   
+**3. Markdown의 설계 철학**
+   - 3.1 읽기 쉬운 문서
+   - 3.2 쓰기 쉬운 문서
+   - 3.3 최소한의 문법
+   - 3.4 사람이 먼저 읽는 문서
+   
+**4. Markdown의 주요 문법**
+   - 4.1 제목(Headers)
+   - 4.2 문단과 줄바꿈
+   - 4.3 강조(Emphasis)
+   - 4.4 목록(Lists)
+   - 4.5 인용문(Blockquotes)
+   - 4.6 코드(Code)
+   - 4.7 링크(Links)
+   - 4.8 이미지(Images)
+   - 4.9 수평선(Horizontal Rules)
+   
+**5. Markdown의 확장 요소**
+   - 5.1 체크리스트
+   - 5.2 표(Table)
+   - 5.3 HTML 혼합 사용
+   - 5.4 표준화와 도구별 차이
+   
+**6. 예시 자료를 통한 Markdown 이해**
+   - 6.1 실시간 미리보기 화면
+   - 6.2 GitHub README
+   - 6.3 Markdown 치트시트
+   - 6.4 Markdown 유튜브 입문 영상
+   
+**7. Markdown의 활용 사례**
+   - 7.1 개발 문서 작성
+   - 7.2 블로그 및 웹 콘텐츠 작성
+   - 7.3 학습 및 노트 정리
+   - 7.4 협업 문서 작성
+   - 7.5 기술 교육 및 튜토리얼 제작
+   
+**8. Markdown의 장점과 한계**
+   - 8.1 장점
+   - 8.2 한계
+   - 8.3 종합적 평가
+   
+**9. 실습 예시**
+
+**10. 결론**
+
+**11. 참고문헌**
+
+**부록. 자주 쓰는 Markdown 문법 요약**
 
 <div style="page-break-after: always;"></div>
 
@@ -488,44 +498,32 @@ README 예시는 Markdown이 단순한 학습용 문법이 아니라, 실제 개
 
 > **그림 3.** Markdown의 핵심 문법을 한 장에 정리한 치트시트
 
-## 6.4 원문과 결과 비교 예시
 
-다음 표는 Markdown 원문과 실제 결과가 어떻게 연결되는지를 간단히 보여준다.
-
-| 원문       | 결과 설명        |
-| -------- | ------------ |
-| `# 제목`   | 큰 제목으로 표시됨   |
-| `**굵게**` | 굵은 글씨로 표시됨   |
-| `> 인용문`  | 인용문 블록으로 표시됨 |
-| `- 항목`   | 목록으로 표시됨     |
-
-이와 같은 비교 자료는 초보 학습자에게 Markdown의 작동 원리를 가장 직관적으로 보여주는 방식 중 하나이다.
-
-## 6.5 Markdown 유튜브 입문 영상
+## 6.4 Markdown 유튜브 입문 영상
 
 Markdown은 문법 설명만 읽는 것보다, 실제 문서 작성 과정을 영상으로 함께 보면서 익힐 때 훨씬 쉽게 이해할 수 있다. 특히 유튜브 입문 영상은 초보자가 부담 없이 접근할 수 있고, GitHub README 작성이나 노트 정리처럼 실제 활용 사례와 연결해서 이해하기 쉽다는 장점이 있다.
 
 다음은 Markdown을 처음 배우는 사람이 참고하기 좋은 영상 예시이다.
 
-### (1) [문서는 웬만하면 마크다운(markdown)으로 씁시다](https://www.youtube.com/watch?v=8z2SRtYpJuQ)
+### 1. [문서는 웬만하면 마크다운(markdown)으로 씁시다](https://www.youtube.com/watch?v=8z2SRtYpJuQ)
 
 <img src="https://i.ytimg.com/vi/8z2SRtYpJuQ/maxresdefault.jpg" alt="그림 4. 유튜브 입문 영상 1" width="500">
 
 > 이 영상은 Markdown의 장점과 활용 가치를 쉽게 설명하는 입문 자료이다. 단순히 문법만 나열하는 것이 아니라, 왜 Markdown이 문서 작성에 유용한지까지 함께 다루고 있어 처음 Markdown을 접하는 학습자에게 적합하다.
 
-### (2) [텍스트기반 마크다운 언어로 github 설명문 작성하기](https://www.youtube.com/watch?v=Tt9V7qEn_ZA)
+### 2. [텍스트기반 마크다운 언어로 github 설명문 작성하기](https://www.youtube.com/watch?v=Tt9V7qEn_ZA)
 
 <img src="https://i.ytimg.com/vi/Tt9V7qEn_ZA/maxresdefault.jpg" alt="그림 5. 유튜브 입문 영상 2" width="500">
 
 > 이 영상은 GitHub 설명문, 즉 `README.md` 작성과 직접 연결되는 자료이다. Markdown을 실제 프로젝트 문서 작성에 적용하는 예시로 활용하기 좋다.
 
-### (3) [노션 제대로 시작하기 #6 | 마크다운이란](https://www.youtube.com/watch?v=QYwAWTbvTd8)
+### 3. [노션 제대로 시작하기 #6 | 마크다운이란](https://www.youtube.com/watch?v=QYwAWTbvTd8)
 
 <img src="https://i.ytimg.com/vi/QYwAWTbvTd8/maxresdefault.jpg" alt="그림 6. 유튜브 입문 영상 3" width="500">
 
 > 이 영상은 노션 사용 맥락에서 Markdown 개념을 설명하는 자료이다. Markdown을 개발 문서뿐 아니라 일상적인 노트 정리와 문서 작성 도구로 이해하는 데 도움을 준다.
 
-### (4) [3. 딱 9개만 외우세요. 초보를 위한 옵시디안 마크다운](https://www.youtube.com/watch?v=Zau9Zm5GpHk)
+### 4. [딱 9개만 외우세요. 초보를 위한 옵시디안 마크다운](https://www.youtube.com/watch?v=Zau9Zm5GpHk)
 
 <img src="https://i.ytimg.com/vi/Zau9Zm5GpHk/maxresdefault.jpg" alt="그림 7. 유튜브 입문 영상 4" width="500">
 
