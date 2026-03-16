@@ -563,7 +563,7 @@ Markdown은 단순한 문법 체계를 넘어, **읽기 쉽고 쓰기 쉬운 문
 3. [John Gruber, *Markdown Syntax Documentation*](https://daringfireball.net/projects/markdown/syntax)
 ---
 
-## 부록 A. 자주 쓰는 Markdown 문법 요약
+## 부록. 자주 쓰는 Markdown 문법 요약
 
 | 표현 요소 | 문법 예시 |
 |---|---|
