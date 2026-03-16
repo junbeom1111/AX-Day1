@@ -1,8 +1,6 @@
 # Markdown 보고서
 
-**이름:** 임준범  
-
-**제출일:** 2026년 3월 16일
+**제출자:** 임준범  
 
 </div>
 
@@ -13,52 +11,59 @@
 **1. 서론**
 
 **2. Markdown의 개념과 특징**
-   * 2.1 Markdown의 정의
-   * 2.2 Markdown의 등장 배경
-   * 2.3 Markdown의 핵심 특징
-   * 2.4 HTML과의 차이
-   
+```
+2.1 Markdown의 정의
+2.2 Markdown의 등장 배경
+2.3 Markdown의 핵심 특징
+2.4 HTML과의 차이
+```
 **3. Markdown의 설계 철학**
-   * 3.1 읽기 쉬운 문서
-   * 3.2 쓰기 쉬운 문서
-   * 3.3 최소한의 문법
-   * 3.4 사람이 먼저 읽는 문서
-   
+```
+3.1 읽기 쉬운 문서
+3.2 쓰기 쉬운 문서
+3.3 최소한의 문법
+3.4 사람이 먼저 읽는 문서
+```   
 **4. Markdown의 주요 문법**
-   * 4.1 제목(Headers)
-   * 4.2 문단과 줄바꿈
-   * 4.3 강조(Emphasis)
-   * 4.4 목록(Lists)
-   * 4.5 인용문(Blockquotes)
-   * 4.6 코드(Code)
-   * 4.7 링크(Links)
-   * 4.8 이미지(Images)
-   * 4.9 수평선(Horizontal Rules)
-   
+```
+4.1 제목(Headers)
+4.2 문단과 줄바꿈
+4.3 강조(Emphasis)
+4.4 목록(Lists)
+4.5 인용문(Blockquotes)
+4.6 코드(Code)
+4.7 링크(Links)
+4.8 이미지(Images)
+4.9 수평선(Horizontal Rules)
+``` 
 **5. Markdown의 확장 요소**
-   * 5.1 체크리스트
-   * 5.2 표(Table)
-   * 5.3 HTML 혼합 사용
-   * 5.4 표준화와 도구별 차이
-   
+```
+5.1 체크리스트
+5.2 표(Table)
+5.3 HTML 혼합 사용
+5.4 표준화와 도구별 차이
+```  
 **6. 예시 자료를 통한 Markdown 이해**
-   * 6.1 실시간 미리보기 화면
-   * 6.2 GitHub README
-   * 6.3 Markdown 치트시트
-   * 6.4 Markdown 유튜브 입문 영상
-   
+```
+6.1 실시간 미리보기 화면
+6.2 GitHub README
+6.3 Markdown 치트시트
+6.4 Markdown 유튜브 입문 영상
+```  
 **7. Markdown의 활용 사례**
-   * 7.1 개발 문서 작성
-   * 7.2 블로그 및 웹 콘텐츠 작성
-   * 7.3 학습 및 노트 정리
-   * 7.4 협업 문서 작성
-   * 7.5 기술 교육 및 튜토리얼 제작
-   
+```
+7.1 개발 문서 작성
+7.2 블로그 및 웹 콘텐츠 작성
+7.3 학습 및 노트 정리
+7.4 협업 문서 작성
+7.5 기술 교육 및 튜토리얼 제작
+```   
 **8. Markdown의 장점과 한계**
-   * 8.1 장점
-   * 8.2 한계
-   * 8.3 종합적 평가
-   
+```
+8.1 장점
+8.2 한계
+8.3 종합적 평가
+```
 **9. 실습 예시**
 
 **10. 결론**
@@ -652,7 +657,7 @@ Markdown은 단순한 문법 체계를 넘어, **읽기 쉽고 쓰기 쉬운 문
 2. John Gruber, *Markdown Basics*. [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics)
 3. John Gruber, *Markdown Syntax Documentation*. [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)
 4. CommonMark, *CommonMark Specification*. [https://commonmark.org/](https://commonmark.org/)
-5. GitHub Docs, *Basic writing and formatting syntax*. [https://docs.github.com/](https://docs.github.com/)
+5. GitHub Docs, *Basic writing and formatting syntax*. [https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 6. Markdown Guide, *Getting Started with Markdown*. [https://www.markdownguide.org/](https://www.markdownguide.org/)
 
 # 부록. 자주 쓰는 Markdown 문법 요약
