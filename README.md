@@ -12,10 +12,10 @@
 **1. 서론**
 
 **2. Markdown의 개념과 특징**
-   - 2.1 Markdown의 정의
-   - 2.2 Markdown의 등장 배경
-   - 2.3 Markdown의 핵심 특징
-   - 2.4 HTML과의 차이
+   * 2.1 Markdown의 정의
+   * 2.2 Markdown의 등장 배경
+   * 2.3 Markdown의 핵심 특징
+   * 2.4 HTML과의 차이
    
 **3. Markdown의 설계 철학**
    - 3.1 읽기 쉬운 문서
